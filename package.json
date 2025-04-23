@@ -2,6 +2,25 @@
   "name": "best-food",
   "version": "0.1.0",
   "private": true,
+  "description": "Best food menu items",
+  "homepage": "https://github.com/HaniMe9/Evangadi-food-Menu#readme",
+  "bugs": {
+    "url": "https://github.com/HaniMe9/Evangadi-food-Menu/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaniMe9/Evangadi-food-Menu.git"
+  },
+  "license": "ISC",
+  "author": "Hanna Meressa",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -12,12 +31,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
+  "devDependencies": {},
   "eslintConfig": {
     "extends": [
       "react-app",
