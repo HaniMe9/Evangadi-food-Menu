@@ -1,0 +1,32 @@
+.single-food {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+  max-width: 300px;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.img img {
+  width: 100%;
+  border-radius: 8px;
+  display: block;
+}
+
+.title-price {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.food-desc {
+  margin-top: 10px;
+}
+
+.food-link {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
